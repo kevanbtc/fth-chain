@@ -1,0 +1,7 @@
+{
+  "name": "fth-chain",
+  "private": true,
+  "workspaces": [
+    "tools/*"
+  ]
+}
